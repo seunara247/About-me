@@ -7,6 +7,12 @@ I bring **security-first approach** in securing cloud infrastructure and impleme
 - **Identity and Access Management**: Enforcing security principles like **least privilege, MFA and RBAC.**
 - **Network security:** Configuring **firewalls, VPNs and encryption** to safeguard network traffic.
 - **Automation and Scripting**: Using **Powershell, CLI** for security automation.
+## CURRENT PROJECTS
+- **Threat Detection and Response**: Analyzing cloud logs for security anomalies.
+- **Cloud Security Hardening**: Enhancing IAM policies and network security in cloud environments.
+- **Infrastructure Automation**: Automating cloud deployments and security configuraion.
+## CONTINOUS LEARNING
+I stay updated with the latest **cloud security trends, Cybersecurity best and Emerging threats**, i am always eager to expand my knowledge and skills. 
 ## GET IN TOUCH
 - Linkedin: [Oluwaseunfunmi Sowunmi](https://www.linkedin.com/in/oluwaseunfunmi-sowunmi)
 - Email: sowunmioluwaseunfunmi79@gmail.com
